@@ -7663,3 +7663,9 @@
   twitch:
     - https://www.twitch.tv/sologhostak47
   id: 645
+- name: DuDuZhu
+  country: cn
+  platforms:
+    rl:
+      - '6251969'
+  id: 646
