@@ -7594,3 +7594,10 @@
     - http://youtube.com/channel/UCUjaaULhgNOJs-eurX4sW4g
   discord_id: Daniela_AoE#9540
   id: 639
+  name: DuDuZhu
+  country: cn
+  platforms:
+    rl:
+      - '6251969'
+  discord_id: DuDu#1345
+  id: 640
